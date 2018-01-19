@@ -1,0 +1,9 @@
+{
+    "plugins": {
+        "node": {}
+    },
+
+    "loadEagerly": [
+        "node_modules"
+    ]
+}
